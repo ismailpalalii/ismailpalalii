@@ -6,15 +6,14 @@ I'm Ismail, I'm developing Android apps. I share my projects here.
 
 
 
+
+
 <h3 align="center">Connect with me:</h3>
 
-
-
 <p align="center">
-
 <a href="mailto:ismail.palali.pp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ismail.palali.pp@gmail.com-blue?style=flat&logo=gmail"></a>
-
 <a href="https://twitter.com/ismailpalalii/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@ismailpalalii-blue?style=flat&logo=twitter"></a>
+<p align="center">
 
 </p>
 
