@@ -1,4 +1,4 @@
-<h3 align=center><>
+<h3 align=center>
 <p align="center">
  Hi, Welcome To My Github Profile 👋
 <p align="center">
@@ -27,8 +27,6 @@ I'm Ismail, I'm developing Android apps. I share my projects here.
 
 
 
-
-
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 
 <p align="center">
@@ -37,11 +35,6 @@ I'm Ismail, I'm developing Android apps. I share my projects here.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailpalalii&langs_count=10&theme=dracula&layout=compact" alt="ismailpalali :: Top Langs" />
 
-
-
-
-
-
-
+  <p align="center">
 </p>
 
