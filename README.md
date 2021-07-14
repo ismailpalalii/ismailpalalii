@@ -1,3 +1,10 @@
+
+<img src="https://user-images.githubusercontent.com/72145206/125690101-b0f32507-1c72-42dd-b15a-393d46c6f623.gif" align="right" width="250" height="250">
+
+
+
+
+
 <h3 align=center>
 <p align="center">
  Hi, Welcome To My Github Profile 👋
@@ -5,7 +12,8 @@
 
 
 
-I'm Ismail, I'm developing Android apps. I share my projects here.
+I'm Ismail. 
+I'm developing Android apps. I share my projects here.
 
 
 
