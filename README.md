@@ -7,15 +7,25 @@
 
 <h3 align=center>
 <p align="center">
- Hi, Welcome To My Github Profile 👋
+ Hi, I'm Ismail. Welcome To My Github Profile 👋
 <p align="center">
+ 
+ <p align="center">
 
+  
+ I'm an Android Developer. I share my projects here.
+  
+ <p align="center">
+  
+  #####  🧑🏻‍💻 I'm currently working on Mobile UI/UX Design & Native Android Application.
+  #####  🤔 I’m currently learning mobile development with kotlin.
+  #####  🥅 2021 Goals: Contribute more to Open Source projects and I'm plan to publish at least 3 apps.
 
-
-I'm Ismail. 
-I'm developing Android apps. I share my projects here.
-
-
+  #####  🔥 The first app I published on google play: [Bebek isim rehberi ](https://https://play.google.com/store/apps/details?id=com.ismailpalali.babyfinalumayep).
+  #####  👍 You can review and send your feedback.
+ 
+  ##### 🤖 My Hobbies: I love coding and reading documentation. Of course, there are also story-themed games 
+ 
 
 <h3 align="center">Connect with me:</h3>
 
