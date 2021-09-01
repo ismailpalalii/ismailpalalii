@@ -24,8 +24,7 @@
   #####  🔥 The first app I published on google play: [Bebek isim rehberi ](https://play.google.com/store/apps/details?id=com.ismailpalali.babyfinalumayep).
   #####  👍 You can review and send your feedback.
  
-  #####  🤖 My Hobbies: I love coding and reading documentation. Of course, there are also story-themed games.
- 
+  #####  🤖 My Hobbies: I love coding and reading documents. I also like ps games, my favorite is The Witcher 3: Wild Hunt⚔️
 
 <h3 align="center">Connect with me:</h3>
 
