@@ -13,12 +13,12 @@
  <p align="center">
 
   
- I'm an Android Developer. I share my projects here.
+ I'm an Mobile Developer. I share my projects here.
   
  <p align="center">
   
-  #####  🐱‍💻 I'm currently working on Mobile UI/UX Design & Native Android Application.
-  #####  🤔 I’m currently learning mobile development with kotlin.
+  #####  🐱‍💻 I'm currently working on Mobile UI/UX Design & Mobile Application.
+  #####  🤔 I’m currently learning mobile development with Kotlin and Swift.
   #####  🥅 2021 Goals: Contribute more to Open Source projects and I'm plan to publish at least 3 apps.
 
   #####  🔥 The first app I published on google play: [Bebek isim rehberi ](https://play.google.com/store/apps/details?id=com.ismailpalali.babyfinalumayep).
