@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/72145206/125690101-b0f32507-1c72-42dd-b15a-393d46c6f623.gif" align="right" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/72145206/145291789-0666cc80-9daa-410a-8e2a-db30a7b7d190.gif" align="right" width="250" height="250">
 
 
 
@@ -13,17 +13,12 @@
  <p align="center">
 
   
- I'm an Mobile Developer. I share my projects here.
+ I'm an Ios Developer. I share my projects here.
   
  <p align="center">
+    
+  ##### 🧑‍🎓 I have been dealing with Kotlin development with android for 1 year. I am currently looking forward to developing iOS with Swift and plan to improve myself. Thanks to the Patika.dev Bootcamp, I will continue my career as an Ios Developer with the training I will receive.
   
-  #####  🐱‍💻 I'm currently working on Mobile UI/UX Design & Mobile Application.
-  #####  🤔 I’m currently learning mobile development with Kotlin and Swift.
-  #####  🥅 2021 Goals: Contribute more to Open Source projects and I'm plan to publish at least 3 apps.
-
-  #####  🔥 The first app I published on google play: [Bebek isim rehberi ](https://play.google.com/store/apps/details?id=com.ismailpalali.babyfinalumayep).
-  #####  👍 You can review and send your feedback.
- 
   #####  🤖 My Hobbies: I love coding and reading documents. I also like ps games, my favorite is The Witcher 3: Wild Hunt⚔️
 
 <h3 align="center">Connect with me:</h3>
@@ -36,7 +31,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a  > </p>
+<p align="center"> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+ <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="swift" width="40" height="40"/>
+ </a><a href="https://kotlinlang.org" target="_blank"> 
+ <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a  > </p>
 
 
 📝 &mdash; Check my Recent post on Medium!
