@@ -17,7 +17,9 @@
   
  <p align="center">
     
-  ##### 🧑‍🎓 I have been dealing with Kotlin development with android for 1 year. I am currently looking forward to developing iOS with Swift and plan to improve myself. Thanks to the Patika.dev Bootcamp, I will continue my career as an Ios Developer with the training I will receive.
+  ##### 🧑‍🎓 I have been dealing with Kotlin development with android for 1 year. 
+  ##### 🔥 I am currently looking forward to developing iOS with Swift and plan to improve myself. 
+  ##### 🙏🏻 Thanks to the Patika.dev Bootcamp, I will continue my career as an Ios Developer with the training I will receive.
   
   #####  🤖 My Hobbies: I love coding and reading documents. I also like ps games, my favorite is The Witcher 3: Wild Hunt⚔️
 
