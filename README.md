@@ -17,10 +17,10 @@
   
  <p align="center">
     
-  ##### 🧑‍🎓 I have been dealing with Kotlin development with android for 1 year. 
-  ##### 🔥 I am currently looking forward to developing iOS with Swift and plan to improve myself. 
-  ##### 🙏🏻 Thanks to the Patika.dev Bootcamp, I will continue my career as an Ios Developer with the training I will receive.
-  #####  🤖 My Hobbies: I love coding and reading documents. I also like ps games, my favorite is The Witcher 3: Wild Hunt⚔️
+  ##### 🧑‍🎓 I used to develop with kotlin, now I create projects by developing with Swift.
+  ##### 🔥 I am currently busy learning Ios Design patterns and Swift.
+  ##### 🙏🏻 I am a student at Patika.Dev Mobven Ios Bootcamp event. I continue to learn new things every day.
+  ##### 🤖 My hobbies: I like to code and read documents. I also like ps games, my favorite is The Witcher 3: Wild Hunt⚔️
 
 <h3 align="center">Connect with me:</h3>
 
