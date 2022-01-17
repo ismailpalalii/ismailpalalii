@@ -19,7 +19,7 @@
     
   ##### 🧑‍🎓 I used to develop with kotlin, now I create projects by developing with Swift.
   ##### 🔥 I am currently busy learning Ios Design patterns and Swift.
-  ##### 🙏🏻 I am a student at Patika.Dev Mobven Ios Bootcamp event.I continue to learn new things every day.
+  ##### 🙏🏻 I am a student at Patika.Dev Mobven Ios Bootcamp event.
   ##### 🤖 My hobbies: I like to code and read documents.
   ##### ⚔️ I also like ps games,my favorite is The Witcher 3: Wild Hunt
 
