@@ -68,4 +68,8 @@
 </td></tr></tbody></table>
 
 ![Profile views](https://gpvc.arturio.dev/ismailpalalii)  
+ 
+ ![snake gif](https://github.com/ismailpalalii/blob/output/github-contribution-grid-snake.gif)
+ 
+ ![snake svg](https://github.com/ismailpalalii/blob/output/github-contribution-grid-snake.svg)
 
