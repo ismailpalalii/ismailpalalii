@@ -13,11 +13,11 @@
  <p align="center">
 
   
- I'm an Ios Developer. I share my projects here.
+ I'm an IOS Developer. I share my projects here.
   
  <p align="center">
     
-  ##### 🧑‍🎓 I make projects with Swift and publish them in my account.
+  
   ##### 🔥 I am currently busy learning IOS Design patterns and Swift.
   ##### 🙏🏻 I graduated from Patika.Dev Mobven IOS Bootcamp.
   ##### 🤩 I am an assistant at the newly opened Patika.Dev IOS Bootcamp.
