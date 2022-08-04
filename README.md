@@ -29,6 +29,7 @@
 <p align="center">
 <a href="mailto:ismail.palali.pp@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ismail.palali.pp@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://twitter.com/ismailpalalii/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@ismailpalalii-blue?style=flat&logo=twitter"></a>
+<a href="https://www.youtube.com/channel/UC7aoh6c4SIIaG7XLqdI0KMg/" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@ismailpalalii-blue?style=flat&logo=Youtube"></a>
 <p align="center">
 
 
