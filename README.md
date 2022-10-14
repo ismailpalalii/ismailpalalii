@@ -17,8 +17,6 @@
   
  <p align="center">
     
-  
-  ##### 🔥 I am currently busy learning IOS Design patterns and Swift.
   ##### 👨‍💻 I work as an iOS Developer at Hızlıgeliyo.
   ##### 🤩 I am an assistant at the newly opened Patika.Dev IOS Bootcamp.
   ##### 🤖 My hobbies: I like to code and read documents.
