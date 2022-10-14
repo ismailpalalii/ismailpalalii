@@ -13,7 +13,7 @@
  <p align="center">
 
   
- I'm an IOS Developer. I share my projects here.
+ I'm an iOS Developer. I share my projects here.
   
  <p align="center">
     
