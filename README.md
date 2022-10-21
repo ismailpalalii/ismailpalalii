@@ -69,7 +69,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/ismailpalalii)  
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ismailpalalii&show_icons=true&locale=en" alt="ismailpalalii" />
+<p>&nbsp;
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailpalalii&" alt="ismailpalalii" />
 </p>
  
