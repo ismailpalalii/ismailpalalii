@@ -18,7 +18,6 @@
  <p align="center">
     
   ##### 👨‍💻 I work as an iOS Developer.
-  ##### 🤩 I am an assistant at the newly opened Patika.Dev IOS Bootcamp.
   ##### 🤖 My hobbies: I like to code and read documents.
   ##### ⚔️ I also like ps games,my favorite is The Witcher 3: Wild Hunt
 
