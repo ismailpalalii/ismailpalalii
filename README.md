@@ -13,13 +13,17 @@
  <p align="center">
 
   
- I'm an iOS Developer. I share my projects here.
+
   
  <p align="center">
     
-  ##### 👨‍💻 I work as an iOS Developer.
-  ##### 🤖 My hobbies: I like to code and read documents.
-  ##### ⚔️ I also like ps games,my favorite is The Witcher 3: Wild Hunt
+ #####  ✅ Ismail has an average of two years of iOS application development experience. 
+ #####  ✅ He has developed and contributed to corporate applications in E-Commerce, Banking, Insurance, Payment Systems, Stock Exchange and Investment sectors. 
+ #####  ✅ His passion is to constantly try to write better code and follow new developments. 
+ #####  ✅ He develops iOS applications using Swift and SwiftUI.
+ 
+ ##### 🤖 My hobbies: I like to code and read documents.
+ ##### ⚔️ I also like ps games,my favorite is The Witcher 3: Wild Hunt
 
 <h3 align="center">Connect with me:</h3>
 
