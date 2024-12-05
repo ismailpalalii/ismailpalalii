@@ -17,7 +17,6 @@
   
  <p align="center">
     
- #####  ✅ Ismail has an average of two years of iOS application development experience. 
  #####  ✅ He has developed and contributed to corporate applications in E-Commerce, Banking, Insurance, Payment Systems, Stock Exchange and Investment sectors. 
  #####  ✅ His passion is to constantly try to write better code and follow new developments. 
  #####  ✅ He develops iOS applications using Swift and SwiftUI.
